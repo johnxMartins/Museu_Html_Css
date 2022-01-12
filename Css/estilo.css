@@ -66,8 +66,8 @@ nav ul li a:hover {
 #conteudo {
     width: 710px;
     float: left;
-    background: green;
 }
+
 
 aside {
     width: 350px;
@@ -75,11 +75,6 @@ aside {
     background: #ebe7dd;
     padding-bottom: 30px;
 }
-
-#capa {
-    float: left
-}
-
 
 section#visita {
     background: #cdc8b1;
